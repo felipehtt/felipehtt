@@ -23,7 +23,7 @@ Sou um profissional de tecnologia apaixonado por resolver problemas reais atrav�
 
 * **Linguagens & Lógica:** Python, React.js, Node.js, SQL
 * **Inteligência Artificial:** Engenharia de Prompts, LLMs, Machine Learning
-* **Infraestrutura & Segurança:** Microsoft Azure, Entra ID
+* **Infraestrutura & Segurança:** Microsoft Azure, Entra ID, M365
 * **Controle de Versão:** Git & GitHub
 
 ### 📈 Projetos em Destaque
