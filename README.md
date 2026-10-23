@@ -1,12 +1,6 @@
 # Olá, eu sou o Felipe! 👋
 
-Sou um profissional de tecnologia apaixonado por resolver problemas reais através de automação, desenvolvimento de sistemas e suporte técnico.
-
-### 🚀 Sobre mim
-- 💻 Atualmente trabalho com **Suporte de T.I. na Engibras Engenharia**.
 - 🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade de Tecnologia de São Paulo Zona Sul.
-- 🌐 Estou em constante aprimoramento, atualmente cursando Inglês Intermediário para expandir minhas fronteiras técnicas.
-- 🧠 Interesses: Web, Python, Inteligência Artificial (Machine Learning e Engenharia de Prompts), e infraestrutura de TI.
 
 ### 🛠️ Minhas Habilidades Técnicas (Tech Stack)
 
@@ -25,11 +19,6 @@ Sou um profissional de tecnologia apaixonado por resolver problemas reais atrav�
 * **Inteligência Artificial:** Engenharia de Prompts, LLMs, Machine Learning
 * **Infraestrutura & Segurança:** Microsoft Azure, Entra ID, M365
 * **Controle de Versão:** Git & GitHub
-
-### 📈 Projetos em Destaque
-
-🔹 **[Caderno Temático: Neurociência e IA](#)**
-Projeto utilizando o NotebookLM como ferramenta de aprendizagem ativa. Explorei fundamentos de IA (prevenção de alucinações e engenharia de prompts) aplicados à neurociência para estruturar o conhecimento sobre o funcionamento das emoções humanas.
 
 ---
 📫 **Como me encontrar:** 
